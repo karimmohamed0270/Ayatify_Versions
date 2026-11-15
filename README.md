@@ -78,47 +78,6 @@
 
 ---
 
-## 🛠️ التقنيات المستخدمة (Tech Stack)
-
-- **Frontend**: HTML5, Vanilla JavaScript (ES6+), CSS3
-- **Styling**: Tailwind CSS (Local Bundle)
-- **Icons & Fonts**: FontAwesome 6 Pro, Cairo Font, Amiri Font
-- **Mobile Runtime**: Capacitor 7 (Android Native Bridge)
-- **Native Audio Engine**: Android Foreground Service (`QuranAudioService`) + MediaSession API
-- **Cloud Database & Auth**: Supabase
-- **Quran Data & Streaming**: MP3Quran.net Official REST API
-
----
-
-## 🚀 التشغيل والتطوير المحلي (Getting Started)
-
-### المتطلبات:
-- Node.js (إصدار 18 فما فوق)
-- Android Studio + Android SDK (API 34/35) + JDK 17
-
-### خطوات التثبيت:
-```bash
-# 1. استنساخ المستودع
-git clone https://github.com/karimmohamed0270/quran-phone-app.git
-cd quran-phone-app
-
-# 2. تثبيت الحزم
-npm install
-
-# 3. مزامنة ملفات الويب مع الأندرويد
-npm run android:sync
-
-# 4. فتح المشروع في Android Studio
-npm run android:open
-```
-
-### لبناء ملف الـ APK النهائي (Release APK):
-```bash
-cd android
-./gradlew assembleRelease
-```
-
----
 
 ## 🙏 الشكر والتقدير (Credits)
 
