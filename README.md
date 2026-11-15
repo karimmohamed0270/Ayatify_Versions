@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="icon-512.png" width="128" height="128" alt="Ayatify Logo" style="border-radius: 28px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
+
 
   # آياتيفاي • Ayatify
   ### تطبيق إسلامي عصري للاستماع وتدبر القرآن الكريم بأعلى جودة وبأصوات كبار القراء
